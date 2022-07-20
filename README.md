@@ -1,5 +1,5 @@
-# Sobre mim
+# Sobre mim - *About me*
 
 - 🤠 16y
 - 📚 JS, PY, LUA 
-- 👥 Front e Back end
+- 👥 Front & Back end
