@@ -1,5 +1,5 @@
 # Sobre mim
 
-- 🤠 16 Anos
+- 🤠 16y
 - 📚 JS, PY, LUA 
 - 👥 Front e Back end
