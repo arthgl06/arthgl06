@@ -1,5 +1,5 @@
 # Sobre mim
 
 - 🤠 16 Anos
-- 📚 Estudando JS 
+- 📚 JS, PY, LUA 
 - 👥 Front e Back end
