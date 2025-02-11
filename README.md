@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🌱 I’m currently learning Java & Spring<br>
 
 
 # 💻 Tech Stack:
