@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java & Spring<br>
+🌱 I’m currently learning Java & Spring<br>🐛 Creating bugs
 
 
 # 💻 Tech Stack:
