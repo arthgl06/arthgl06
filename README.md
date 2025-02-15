@@ -1,7 +1,7 @@
 # 👋 Hello
 ### 🌟 About Me
 
-Hi! My name is Arthur Henrique, I’m currently studying Software Engineering and dedicating myself to continuous learning to become a Fullstack Developer. My journey includes practical and theoretical studies, building personal projects, and an eagerness to grow!
+Hi! My name is Arthur, I’m currently studying Software Engineering and dedicating myself to continuous learning to become a Fullstack Developer. My journey includes practical and theoretical studies, building personal projects, and an eagerness to grow!
 
 ---
 
